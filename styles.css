@@ -1,0 +1,55 @@
+body {
+
+    margin: 0;
+    padding: 10px;
+    min-width: 400px;
+
+
+}
+
+input {
+    display: block;
+    width: 400px;
+    border-color: #5f9341;
+    padding: 10px 20px;
+    margin-bottom: 4px;
+    
+}
+
+button {
+    background-color: #5f9341; 
+    color: white;
+    border: none;
+    width: 130px;
+    height: 40px;
+    border: 1px solid #5f9341;
+
+}
+
+#delete-btn {
+    background-color: white;
+    color: #5f9341;
+}
+
+button:hover {
+    border: 4px solid gray;
+    width: 140px;
+    height: 45;
+}
+
+ul {
+    padding: 0px;
+    list-style: none;
+}
+
+li {
+    color: #5f9341;
+    padding: 4px;
+
+}
+
+a {
+    color: #5f9341;
+
+
+}
